@@ -34,44 +34,44 @@ try {
 
     <style>
         body {
-		    font-family: Arial, sans-serif;
-			background-color: #f2f2f2;
-			margin: 0;
-			padding: 0;
-		}
+		font-family: Arial, sans-serif;
+		background-color: #f2f2f2;
+		margin: 0;
+		padding: 0;
+	    }
 
        	.container {
-            max-width: 800px;
-            margin: 0 auto;
-            background-color: #fff;
-            border-radius: 10px;
-			box-shadow: 0px 0px 10px #aaa;
-            padding: 30px;
-            margin-top: 100px;
-            margin-bottom: 100px;;
+		max-width: 800px;
+		margin: 0 auto;
+		background-color: #fff;
+		border-radius: 10px;
+		box-shadow: 0px 0px 10px #aaa;
+		padding: 30px;
+		margin-top: 100px;
+		margin-bottom: 100px;;
+	    }
+	
+	h5 {
+		margin: 20px 0 0;
+		color: #999;
+	    }
+	
+	p {
+		margin: 0 0 10px;
+		color: #333;
+	    }
+	    
+	li {
+		margin: 5px 0;
+		color: #333;
 	    }
 
-	    h5 {
-		    margin: 20px 0 0;
-		    color: #999;
+	.correct {
+		color: blue;
 	    }
 
-	    p {
-		    margin: 0 0 10px;
-		    color: #333;
-	    }
-
-	    li {
-		    margin: 5px 0;
-		    color: #333;
-	    }
-
-	    .correct {
-		    color: blue;
-	    }
-
-	    .incorrect {
-		    color: red;
+	.incorrect {
+		color: red;
 	    }
 </style>
 
